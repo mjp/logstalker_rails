@@ -8,6 +8,7 @@ easily parse & stream into BigQuery.
 To install, add it to your Gemfile:
 
     gem 'logstalker_rails', git: 'https://github.com/mjp/logstalker_rails.git'
+    gem 'custom_configuration' # Only needed for rails 4.1 and earlier
 
 ## Usage
 
